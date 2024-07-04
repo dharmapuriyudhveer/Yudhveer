@@ -41,7 +41,7 @@ const genres = [
   { name: "Documentary", icon: <TheatersIcon /> },
   { name: "Drama", icon: <PsychologyIcon /> },
   { name: "Family", icon: <ChildCareIcon /> },
-  { name: "Fantasy", icon: <AutoFixHighIcon /> },
+  { name: "Fantasy", icon: <AutoFixHighIcon /> }
   { name: "History", icon: <HistoryEduIcon /> },
   { name: "Horror", icon: <BloodtypeIcon /> },
   { name: "Music", icon: <MusicNoteIcon /> },
